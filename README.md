@@ -98,3 +98,8 @@ Realizando la suma algebraica entre las corrientes encontradas:
 
 7. Conclusiones 
 
+El metodo de superposición  es una manera de  determinar corrientes en un circuito con varias fuentes, trabajando con una fuente para ello se reemplaza por la resitencia interna de la fuente de voltaje ideal que es cero y de la fuente de correinte ideal que es infinita , por ello todas las fuentes deben ser trabajadas como ideales para que se pueda simplificar su uso.
+
+Para armar el circuito es de gran importancia conocer a la perfección los componenes que se encuentran presentes y como se los debe conectar, para ello con el uso de una herramiente virtual como lo es tinker card es de gran utilidad , sin embargo, es fundamental analizar el circuito para que se lo arme sin nigun inconveniente. 
+
+Primero se debe obtener la resistencia total y para ello  se debe analizar como se encuentran las resistencias ya sea en paralelo o en serio y de ello depende para aplicar cualquier formula, para hallar la corriente total se aplica directamente la le de OHM y para hallar la corriente en Ix se debe aplicar la fulmula del divisor de corriente  Ix=(RT/Rx)*IT
