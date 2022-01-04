@@ -95,7 +95,7 @@ Realizando la suma algebraica entre las corrientes encontradas:
 ![image](https://user-images.githubusercontent.com/93958596/148009826-f2fb4d89-ca6c-434d-ad17-333e018610b2.png)
 
 6. Video
-
+https://www.youtube.com/watch?v=qPJ4qUvgeig
 7. Conclusiones 
 
 El metodo de superposición  es una manera de  determinar corrientes en un circuito con varias fuentes, trabajando con una fuente para ello se reemplaza por la resitencia interna de la fuente de voltaje ideal que es cero y de la fuente de correinte ideal que es infinita , por ello todas las fuentes deben ser trabajadas como ideales para que se pueda simplificar su uso.
