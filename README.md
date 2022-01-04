@@ -37,7 +37,7 @@ Identificar las formulas principales para poder resolver manualmente el circuito
 
 Cuando la fuente de voltaje V2 = 0
 
-![image](https://user-images.githubusercontent.com/93958596/148009864-c5e5127b-dfa6-438c-abd9-c555d7c3478a.png)
+![image](https://user-images.githubusercontent.com/93958596/148107988-1567e662-2d8b-4cd9-bccd-a8ce0c0f82e7.png)
 
     Para hallar la resistencia total:
       Req1 = 820 Ω + 470 Ω = 1290 Ω = 1.29 kΩ
@@ -61,7 +61,7 @@ Cuando la fuente de voltaje V2 = 0
 
 Cuando la fuente de voltaje V1 = 0
 
-![image](https://user-images.githubusercontent.com/93958596/148009991-15aba1e7-79c5-42af-b7af-7e565a8516aa.png)
+![image](https://user-images.githubusercontent.com/93958596/148107958-bb31e687-2a92-48fb-b828-430bf3086526.png)
 
     Para hallar la resistencia total:
       1/Req1 = 1/1 kΩ + 1/2.2 kΩ = 1.45 kΩ
