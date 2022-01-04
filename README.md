@@ -36,6 +36,7 @@ Identificar las formulas principales para poder resolver manualmente el circuito
 5. Respuesta a interrogantes y calculo del error
 
 Cuando la fuente de voltaje V2 = 0
+
 ![image](https://user-images.githubusercontent.com/93958596/148009864-c5e5127b-dfa6-438c-abd9-c555d7c3478a.png)
 
     Para hallar la resistencia total:
@@ -59,6 +60,7 @@ Cuando la fuente de voltaje V2 = 0
     Pero como el voltaje está en sentido contrario a como circula, VA = -5.7 V y la corriente es Ix = 6.95 mA
 
 Cuando la fuente de voltaje V1 = 0
+
 ![image](https://user-images.githubusercontent.com/93958596/148009991-15aba1e7-79c5-42af-b7af-7e565a8516aa.png)
 
     Para hallar la resistencia total:
