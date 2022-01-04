@@ -13,3 +13,7 @@ Conocer la definición principal sonbre la superposición para proceguir a reali
 Armar correctamente el circuito y así poder trabajar con él. 
 
 Identificar las formulas principales para poder resolver manualmente el circuito planteado. 
+
+2. Marco Teoríco 
+
+![image](https://user-images.githubusercontent.com/94153604/148007000-debf8926-7a0c-45ce-b34a-b2da2ef8ada8.png)
