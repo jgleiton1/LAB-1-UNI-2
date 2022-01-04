@@ -17,3 +17,15 @@ Identificar las formulas principales para poder resolver manualmente el circuito
 2. Marco Teoríco 
 
 ![image](https://user-images.githubusercontent.com/94153604/148007000-debf8926-7a0c-45ce-b34a-b2da2ef8ada8.png)
+
+3. Requerimientos Previos
+
+
+4. Materiales y Equipos Requeridos
+
+5. Respuesta a interrogantes y calculo del error
+
+6. Videos
+
+7. Conclusiones 
+
