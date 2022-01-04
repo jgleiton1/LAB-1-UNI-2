@@ -25,7 +25,7 @@ Identificar las formulas principales para poder resolver manualmente el circuito
 
 5. Respuesta a interrogantes y calculo del error
 
-6. Videos
+6. Video
 
 7. Conclusiones 
 
